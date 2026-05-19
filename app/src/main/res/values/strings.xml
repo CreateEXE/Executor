@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VRM Avatar Renderer</string>
+    <string name="load_avatar">Load Avatar (GLB)</string>
+    <string name="play_walk">Play Walk</string>
+    <string name="pause">Pause</string>
+    <string name="loading_avatar">Loading avatar...</string>
+    <string name="avatar_loaded">Avatar loaded successfully!</string>
+    <string name="failed_to_load">Failed to load avatar:</string>
+</resources>
